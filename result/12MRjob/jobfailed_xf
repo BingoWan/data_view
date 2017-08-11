@@ -1,0 +1,4 @@
+apollo                                   | com.cnc.gdp.apollo.qos.QosMapreduce      | 1                                        
+gdns                                     | com_cnc_gdns_count_qps                   | 1                                        
+pass                                     | CacheGroupRespAvroJob                    | 3                                        
+pass                                     | FuCacheGMetricCountJob                   | 1                                        

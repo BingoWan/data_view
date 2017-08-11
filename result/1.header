@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Expires: Thu, 01-Jan-1970 00:00:00 GMT
+Set-Cookie: CLOUDERA_MANAGER_SESSIONID=1blzac3yx6k4vcblzsqv5vq5o;Path=/;HttpOnly
+Content-Type: text/csv
+Date: Mon, 17 Apr 2017 02:51:53 GMT
+Content-Length: 685
+Server: Jetty(6.1.26.cloudera.4)
+
